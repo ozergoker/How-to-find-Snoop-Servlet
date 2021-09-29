@@ -5,3 +5,5 @@
 # Dork Title: to find Snoop Servlet
 # Google Dork: intitle:Snoop Servlet
 
+![image](https://github.com/ozergoker/How-to-find-Snoop-Servlet/blob/main/google.png)
+
